@@ -1,6 +1,6 @@
-   #Bem vindo Jovens Aventureiros!
+   Bem vindo Jovens Aventureiros!
     
-    Meu nome é ####Caio Jablonski :)
+    Meu nome é Caio Jablonski :)
 
     Sou um jogador esperando o mmorpg perfeito, amante dos animais, apreciador de animes e séries.
 
@@ -16,4 +16,4 @@
 
     Obrigado pela atenção jovem aventureiro. Que prossigam em paz!
 
-    ![](Gandalf.gif)
+    ![](https://github.com/jablonskicaio/jablonskicaio/blob/293917c9eec4df2262f40e907471a422079696af/Gandalf.gif)
