@@ -16,4 +16,4 @@
 
     Obrigado pela atenção jovem aventureiro. Que prossigam em paz!
 
-    <img src="./Gandalf.gif" alt="" srcset="">
+    ![](Gandalf.gif)
