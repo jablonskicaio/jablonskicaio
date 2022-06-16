@@ -1,16 +1,19 @@
-### Hi there 👋
+   #Bem vindo Jovens Aventureiros!
+    
+    Meu nome é ####Caio Jablonski :)
 
-<!--
-**jablonskicaio/jablonskicaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Sou um jogador esperando o mmorpg perfeito, amante dos animais, apreciador de animes e séries.
 
-Here are some ideas to get you started:
+    Curiosamente sou desenvolvedor web em formação, pelo programa Starter Full Stack Web Developer da GrowDev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Como um mago sábio já desenvolvi várias habilidades diferentes, adquiri conhecimentos antigos nos manuscritos da
+    faculdade de história, a qual por imprevistos da campanha tive de abandonar. Aprendi alta magia arcana que permite
+    usar dispositivos de virtualização, que os jovens hoje chamam de computadores. Já upei minhas skills trabalhando à
+    confeccionar armaduras leves, passando meus conhecimentos a outros, e cuidando dos companions dos hunters quando
+    eles ficam doentes.
+
+    Atualmente tenho me dedicado a estudar os pergaminhos eletrônicos sobre html e css no programa da GrowDev.
+
+    Obrigado pela atenção jovem aventureiro. Que prossigam em paz!
+
+    <img src="./Gandalf.gif" alt="" srcset="">
