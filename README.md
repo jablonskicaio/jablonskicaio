@@ -12,7 +12,7 @@ usar dispositivos de virtualização, que os jovens hoje chamam de computadores.
 confeccionar armaduras leves, passando meus conhecimentos a outros, e cuidando dos companions dos hunters quando
 eles ficam doentes.
 
-Atualmente tenho me dedicado a estudar os pergaminhos eletrônicos sobre html e css no programa da GrowDev.
+Atualmente tenho me dedicado a estudar os pergaminhos eletrônicos sobre html, css e javascrip no programa da GrowDev.
 
 Obrigado pela atenção jovem aventureiro. Que prossigam em paz!
 
